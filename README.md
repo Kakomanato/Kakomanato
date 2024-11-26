@@ -9,8 +9,6 @@ Welcome! 👋 I'm starting on the journey of software development full of enthus
 
 <br> 📧 Mail: f.comanato@gmail.com
 <br> 👨‍💼 LinkedIn: Franco Andre Comanato Zambrano
-<br> Skills: 
-
-REST APIs, SQLAlchemy, Git, React.js, HTML5, JavaScript, CSS, Python, Bootstrap, FLASK, SQL and now Firebase
+<br> Skills: REST APIs, SQLAlchemy, Git, React.js, HTML5, JavaScript, CSS, Python, Bootstrap, FLASK, SQL and now Firebase
 <!--
 -->
